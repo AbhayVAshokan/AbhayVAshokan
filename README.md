@@ -28,73 +28,41 @@
 </div>
 
 <div align="center">
-<h3>Last jammed out to</h3>
-<img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/AbhayVAshokan" />
+<p>Last jammed out to</p>
+<img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)" width="300px" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <div align="center">
-    <p style="margin: 2rem 0 0rem 0;">Oh no 😟! A Python 🐍 is  eating away contributions 👨‍💻 </p>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"
-        style="width: calc(min(90%, 700px)); " />
+<p>GitHub contribution graph</p>
+<img src="https://raw.githubusercontent.com/AbhayVAshokan/AbhayVAshokan/output/github-contribution-grid-snake.svg" />
 </div>
+
 <!--  -->
+
 <br></br>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin-top: 2rem;" align="center">
-    <a href="https://www.linkedin.com/in/abhayvashokan/" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/LinkedIn.svg" height=40 width=40/>
+    <a href="https://github.com/AbhayVAshokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
+        <img src="./assets/icons/github.svg" height=40 width=40/>
     </a>
 
    <a href="https://twitter.com/abhayvashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/Twitter.svg" height=40 width=40/>
-    </a>
+            <img src="./assets/icons/twitter.svg" height=40 width=40/>
+   </a>
+
+   <a href="https://linkedin.com/in/abhayvashokan/" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
+        <img src="./assets/icons/linkedin.svg" height=40 width=40/>
+   </a>
 
    <a href="https://medium.com/@abhayvashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Medium.png" height=40 width=40/>
+        <img src="./assets/icons/medium.svg" height=40 width=40/>
     </a>
 
-   <a href="Villain#1929" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Discord.svg" height=40 width=40/>
+   <a href="mailto:abhayvashokan@gmail.com" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
+        <img src="./assets/icons/gmail.svg" height=40 width=40/>
     </a>
 
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhayvashokan@gmail.com&su=Hey%2C%20I%20am%20%3CYour%20Name%3E&body=Hey%2C%0A%0AI%20think%20the%20Earth%20is%20flat%20too..." style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Gmail.png" height=40 width=40/>
-    </a>
-
-   <a href="https://www.facebook.com/abhay.vashokan.5" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Facebook.svg" height=40 width=40/>
-    </a>
-
-   <a href="https://stackoverflow.com/users/9605267/abhay-v-ashokan/" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Stack Overflow.svg" height=40 width=40/>
-    </a>
-
-   <a href="https://www.codechef.com/users/abhay_ashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Codechef.png" height=40 width=40/>
-    </a>
-
-   <a href="https://www.hackerrank.com/AbhayVAshokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Hackerrank.png" height=40 width=40/>
-    </a>
-
-   <a href="https://www.hackerearth.com/@abhayvashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Hackerearth.png" height=40 width=40/>
-    </a>
-
-   <a href="https://codeforces.com/profile/AbhayVAshokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Codeforces.png" height=40 width=40/>
-    </a>
-
-   <a href="https://devfolio.co/@AbhayVAshokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Devfolio.png" height=40 width=40/>
-    </a>
-
-   <a href="https://www.chess.com/member/abhayvashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="assets/icons/Chess.png" height=40 width=40/>
+   <a href="https://instagram.com/__abhay_ashokan__" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
+        <img src="./assets/icons/instagram.svg" height=40 width=40/>
     </a>
 </div>
