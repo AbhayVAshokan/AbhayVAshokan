@@ -29,7 +29,7 @@
 
 <div align="center">
 <p>Last jammed out to</p>
-<img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)" width="300px" />
+<img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)" width="400px" />
 </div>
 
 <div align="center">
