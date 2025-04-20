@@ -28,20 +28,18 @@
 </div>
 
 <div align="center">
-<p>Last jammed out to</p>
 <img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)" width="400px" />
 </div>
 
-<div align="center">
-<p>GitHub contribution graph</p>
-<img src="https://raw.githubusercontent.com/AbhayVAshokan/AbhayVAshokan/output/github-contribution-grid-snake.svg" />
+<div align="center" style="margin-top: -30px;">
+    <img src="https://raw.githubusercontent.com/AbhayVAshokan/AbhayVAshokan/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!--  -->
 
 <br></br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin-top: 2rem;" align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin-top: -60px;" align="center">
     <a href="https://github.com/AbhayVAshokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
         <img src="./assets/icons/github.svg" height=40 width=40/>
     </a>
