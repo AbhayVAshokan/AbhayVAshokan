@@ -40,27 +40,27 @@
 <br></br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin-top: -60px;" align="center">
-    <a href="https://github.com/AbhayVAshokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/github.svg" height=40 width=40/>
+    <a href="https://github.com/AbhayVAshokan" style="height: 2rem; width: 2rem; margin: 0.4rem;">
+        <img src="./assets/icons/github.svg" />
     </a>
 
-   <a href="https://twitter.com/abhayvashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-            <img src="./assets/icons/twitter.svg" height=40 width=40/>
+   <a href="https://twitter.com/abhayvashokan" style="height: 2rem; width: 2rem; margin: 0.4rem;">
+            <img src="./assets/icons/twitter.svg" />
    </a>
 
-   <a href="https://linkedin.com/in/abhayvashokan/" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/linkedin.svg" height=40 width=40/>
+   <a href="https://linkedin.com/in/abhayvashokan/" style="height: 2rem; width: 2rem; margin: 0.4rem;">
+        <img src="./assets/icons/linkedin.svg" />
    </a>
 
-   <a href="https://medium.com/@abhayvashokan" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/medium.svg" height=40 width=40/>
+   <a href="https://medium.com/@abhayvashokan" style="height: 2rem; width: 2rem; margin: 0.4rem;">
+        <img src="./assets/icons/medium.svg" />
     </a>
 
-   <a href="mailto:abhayvashokan@gmail.com" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/gmail.svg" height=40 width=40/>
+   <a href="mailto:abhayvashokan@gmail.com" style="height: 2rem; width: 2rem; margin: 0.4rem;">
+        <img src="./assets/icons/gmail.svg" />
     </a>
 
-   <a href="https://instagram.com/__abhay_ashokan__" style="height: 2.5rem; width: 2.5rem; margin: 0.4rem;">
-        <img src="./assets/icons/instagram.svg" height=40 width=40/>
+   <a href="https://instagram.com/__abhay_ashokan__" style="height: 2rem; width: 2rem; margin: 0.4rem;">
+        <img src="./assets/icons/instagram.svg" />
     </a>
 </div>
