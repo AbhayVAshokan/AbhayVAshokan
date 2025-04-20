@@ -35,11 +35,7 @@
     <img src="https://raw.githubusercontent.com/AbhayVAshokan/AbhayVAshokan/output/github-contribution-grid-snake.svg" />
 </div>
 
-<!--  -->
-
-<br></br>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; margin-top: -60px;" align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;" align="center">
     <a href="https://github.com/AbhayVAshokan" style="height: 2rem; width: 2rem; margin: 0.4rem;">
         <img src="./assets/icons/github.svg" />
     </a>
