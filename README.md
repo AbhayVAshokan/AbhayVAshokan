@@ -4,7 +4,7 @@
     <br />
 
    <!-- About -->
-   <div style="display: flex; flex-direction: row; align-items: center; width: 100%; padding: 0 2rem;" align="center">
+   <div style="align-items: center; width: 100%; padding: 0 2rem;" align="center">
         <img src="assets/images/programmer.gif" width="50%" alt="programmer GIF">
 
    <div style="margin-left: 2rem;">
@@ -15,17 +15,6 @@
             </samp>
         </div>
     </div>
-
-   <div style="display: flex; flex-direction: row; justify-content: center;"  align="center">
-    <!-- Stats: https://github.com/lowlighter/metrics/ -->
-    <img src=".github/metrics.classic.svg" width="50%"/>
-    <div>
-        <br />
-        <img src=".github/metrics.plugin.languages.svg" style="width: 100%;" />
-        <br />
-        <img src=".github/metrics.plugin.followup.svg" style="width: 100%; margin: 0 0 0.75rem 0" />
-    </div>
-</div>
 
 <div align="center">
 <img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)" width="400px" />
