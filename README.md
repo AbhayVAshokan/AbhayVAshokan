@@ -12,7 +12,7 @@
       <img src="https://komarev.com/ghpvc/?username=AbhayVAshokan" alt="https://github.com/AbhayVAshokan" />
       <br />
       <samp>
-        I am a tech-lead at BigBinary 🧑‍💻. For me, building software is more than just a job — it's a passion. I like to get my hands dirty and build tools to solve my own itch, and make life easier for everyone else. You will always find me with endless open tabs, reading numerous blogs, experimenting with what's hot in the JavaScript world, or solving chess puzzles. Don't hesitate to say hi if you spot me at meetups or cafes with a laptop and headphones. I will not stop talking if you strike up a conversation with me by casually mentioning Next.js, React, Ruby on Rails, or anything related to chess. Check out my portfolio at https://abhay.app 😄.
+        I am a fullstack engineer at GitLab 🧑‍💻. For me, building software is more than just a job — it's a passion. I like to get my hands dirty and build tools to solve my own itch, and make life easier for everyone else. You will always find me with endless open tabs, reading numerous blogs, experimenting with what's hot in the JavaScript world, or solving chess puzzles. Don't hesitate to say hi if you spot me at meetups or cafes with a laptop and headphones. I will not stop talking if you strike up a conversation with me by casually mentioning Next.js, React, Ruby on Rails, or anything related to chess. Check out my portfolio at https://abhay.app 😄.
       </samp>
     </td>
   </tr>
