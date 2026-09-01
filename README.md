@@ -20,7 +20,7 @@
 
 <div align="center">
 <h6>Currently jamming to</h6>
-<img src="https://spotify-github.abhay.app/api/spotify?background_color=0d1117&border_color=ffffff)" width="400px" />
+<img src="https://ytmusic-readme.abhay.app" />
 </div>
 
 <div align="center" style="margin-top: -30px;">
